@@ -15,7 +15,7 @@ I built this to learn about working with APIs, data processing, and visualizatio
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 data-analytics-project/
@@ -52,7 +52,7 @@ data-analytics-project/
 
 ---
 
-## 🚀 How to Use This
+##  How to Use This
 
 ### What You Need
 - Python 3.8+
@@ -89,7 +89,7 @@ data-analytics-project/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Install Python 3.8+ and get pip
 2. Clone/download this repo
